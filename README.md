@@ -1,3 +1,3 @@
 ##  discussion_platform
 
-Server app
+Ask N Ace Server app
